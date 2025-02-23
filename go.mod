@@ -1,8 +1,6 @@
 module github.com/Cxpycat/protos
 
-go 1.22
-
-toolchain go1.24.0
+go 1.23.6
 
 require (
 	google.golang.org/grpc v1.70.0
